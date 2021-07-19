@@ -1,0 +1,14 @@
+/home/edric/exercism/haskell/complex-numbers/package.yaml:
+  hash: 9a77c74349135f9ecb3a3f8ae4d46385d9a229b634d344c1c8b44919723285e5
+/home/edric/exercism/haskell/complex-numbers/test/Tests.hs:
+  hash: 35bc5ef72330524830058fccc170589e6fab26ad993fee4aa715fb99cf3d6978
+? /home/edric/exercism/haskell/complex-numbers/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/test/autogen/cabal_macros.h
+: hash: d89ab68b5370b8880af4dafb1141ad9213ca490c590d6e4719a32a37211f9f8e
+/usr/include/stdc-predef.h:
+  hash: 38bac01c137da3ec6623c5166d420cd0bdee18e1d6605921f138f74ef902f102
+/home/edric/exercism/haskell/complex-numbers/complex-numbers.cabal:
+  hash: 27c19151818e030d0c2477571b58616e198ab1be43e609e4b14dbac463bc8ed0
+? /home/edric/exercism/haskell/complex-numbers/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/test/autogen/Paths_complex_numbers.hs
+: hash: 0ffd252272cbd60a285a5f40ecd2c0ff1288bec7ed5aa5870ae4bac6e3791319
+/home/edric/.stack/programs/x86_64-linux/ghc-tinfo6-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0

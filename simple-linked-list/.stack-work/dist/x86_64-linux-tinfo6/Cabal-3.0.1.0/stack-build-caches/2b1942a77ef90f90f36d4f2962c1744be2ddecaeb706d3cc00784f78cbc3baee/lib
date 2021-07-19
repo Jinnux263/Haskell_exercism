@@ -1,0 +1,14 @@
+/home/edric/exercism/haskell/simple-linked-list/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/cabal_macros.h:
+  hash: aa814081fe3cf2b4ab419b088d83174bbefe63e71437f99c72131a244f097ba8
+/home/edric/exercism/haskell/simple-linked-list/package.yaml:
+  hash: 4a7798a454fe2d2d05f35ec361eaeb6759aad95fe53f58f642bb962a484c4164
+/usr/include/stdc-predef.h:
+  hash: 38bac01c137da3ec6623c5166d420cd0bdee18e1d6605921f138f74ef902f102
+/home/edric/exercism/haskell/simple-linked-list/simple-linked-list.cabal:
+  hash: 9fd0467d863bcf6cd66a962256ecb1648e0cb160db3cd04df085623892e09dc7
+/home/edric/exercism/haskell/simple-linked-list/src/LinkedList.hs:
+  hash: 0ef4351e76cbf5abef85fb8c383f0ffa886aa80ec15df1d3c98efe6115d5d06c
+/home/edric/.stack/programs/x86_64-linux/ghc-tinfo6-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+? /home/edric/exercism/haskell/simple-linked-list/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/Paths_simple_linked_list.hs
+: hash: f3296eb6e317588fa5b97a7b26d47e03c7ae9b02062ae6553236df6380da869f

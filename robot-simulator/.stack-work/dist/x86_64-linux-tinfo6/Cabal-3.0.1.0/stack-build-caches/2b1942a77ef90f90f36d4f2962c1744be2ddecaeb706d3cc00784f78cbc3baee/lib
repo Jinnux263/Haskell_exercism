@@ -1,0 +1,14 @@
+? /home/edric/exercism/haskell/robot-simulator/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/Paths_robot_simulator.hs
+: hash: 2b853358159061d5a651803f269248be75241cc8c78ee40b766efb718d54f9fa
+/usr/include/stdc-predef.h:
+  hash: 38bac01c137da3ec6623c5166d420cd0bdee18e1d6605921f138f74ef902f102
+/home/edric/exercism/haskell/robot-simulator/robot-simulator.cabal:
+  hash: eb2807f23a06d4faf4a6b5a2f26abf61d6f4e6ed8909c25003c315c289ccd5f8
+/home/edric/exercism/haskell/robot-simulator/src/Robot.hs:
+  hash: 5695e74ecbb8fa5d35fc519629dc2341f18a5581dd6bb3000d9ff2795562d5d5
+/home/edric/exercism/haskell/robot-simulator/.stack-work/dist/x86_64-linux-tinfo6/Cabal-3.0.1.0/build/autogen/cabal_macros.h:
+  hash: 5c4586d672b73648824e7aeac59849274c1a2790d94879aeb7fe205ae8083c57
+/home/edric/.stack/programs/x86_64-linux/ghc-tinfo6-8.8.4/lib/ghc-8.8.4/include/ghcversion.h:
+  hash: 297e8571427d670d413977834f5cdfc77cb89051d2f5b8302303c442346d15d0
+/home/edric/exercism/haskell/robot-simulator/package.yaml:
+  hash: 51db7958d5ecd879849959314c1c121f52021609c9540c1c518fa15ffc924b39
